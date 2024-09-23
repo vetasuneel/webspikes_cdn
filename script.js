@@ -41,7 +41,7 @@
                 border-radius: 12px;
                 margin-bottom: 8px;
                 font-size: 14px;
-                max-width: 300px;
+                max-width: 323px;
                 text-align: left;
                 position: relative;
                 animation: fadeIn 0.5s ease-in-out forwards;
@@ -423,7 +423,7 @@
             /* Shatter (Banner) Styling */
 .shatter {
     position: fixed;
-    top: -60px;  /* Initially hidden */
+    top: -70px;  /* Initially hidden */
     left: 50%;
     transform: translateX(-50%);
     width: 300px;
@@ -547,7 +547,7 @@
                     if (chatContainer.classList.contains('open')) {
                         chatContainer.classList.remove('open');
                         chatContainer.classList.add('close');
-                        shatter.style.top = '-60px';  // Hide shatter when chat is closed
+                        shatter.style.top = '-70px';  // Hide shatter when chat is closed
                     } else {
                         chatContainer.classList.remove('close');
                         chatContainer.classList.add('open');
@@ -730,7 +730,7 @@
                 closeBtn.addEventListener('click', function () {
                     chatContainer.classList.remove('open');
                     chatContainer.classList.add('close');
-                    shatter.style.top = '-60px';  // Hide the shatter when the chat is closed
+                    shatter.style.top = '-70px';  // Hide the shatter when the chat is closed
                 });
 
                 
