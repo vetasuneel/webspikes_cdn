@@ -502,11 +502,10 @@
                         <i class="fas fa-paper-plane"></i>
                     </button>
                 </div>
-                <div class="powered-by mt-3">
-  powered by <a href="https://www.vetaai.com/">
-    <img src="https://calling-app-veta-laca.vercel.app/logo.png" alt="Webspikes Logo" style="width: 18px; height: auto;">
-  </a>
+<div class="powered-by mt-3">
+  powered by <a href="https://webspikes.com/" style="color: #76CD18;">webspikes</a>
 </div>
+
 
             </div>
     
