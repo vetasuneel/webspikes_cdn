@@ -461,7 +461,7 @@
 
             <div class="chat-icon-container">
                 <div class="speech-bubble">
-                    Unleash Potential with webspikes Your Success Catalyst! 😎
+                    Start Your E-commerce & Affiliate Business with Webspikes today 😎
                     <span class="close-speech">&times;</span>
                 </div>
             <div class="chat-icon" id="chat-icon">
