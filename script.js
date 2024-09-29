@@ -35,8 +35,8 @@
             }
     
             .chat-icon-container .speech-bubble {
-                background: #E8F1FF;
-                color: black;
+                background: #7854F7;
+                color: white;
                 padding: 14px 12px;
                 border-radius: 12px;
                 margin-bottom: 8px;
@@ -454,7 +454,7 @@
 <div id="shatter" class="shatter">
     <i class="fas fa-phone-alt"></i>
     <div>
-        <strong>+1-123-456-7890</strong><br>
+        <strong>(415) 687-4445</strong><br>
         Feel free to talk with our AI assistant.
     </div>
 </div>
